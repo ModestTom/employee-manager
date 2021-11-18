@@ -12,7 +12,7 @@
   * Run 'npm install' in the main directory to install the required packages.
   * Create a '.env' and fill out your MySQL user and database information.
   * Create the database using the code inside './db/schema.sql'.
-  * Start the application by running 'npm start'.
+  * Start the application by running 'node index.js'.
 
   ## Contact ##
   * Email: thomas.spaeth01@gmail.com
